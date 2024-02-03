@@ -1,0 +1,51 @@
+.content{
+    margin: 50px 500px;
+    padding: 30px;
+    width: 450px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.btn{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.navbar{
+    background-color: cornflowerblue;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 100px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.footer{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.footer-text{
+    color: white;
+}
+
+form{
+    border: 2px solid lightgrey;
+    padding: 20px;
+}
+
+form h3{
+    text-align: center;
+}
+
+form button{
+    text-align: center;
+}
